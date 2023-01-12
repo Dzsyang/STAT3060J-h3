@@ -1,5 +1,5 @@
 # Homework 3
-- Here are three figures for my *homework 3*.
+- Here are three figures for my `homework 3`.
 
 ## Figure 1
 
